@@ -41,10 +41,14 @@
 }
 
 
+.nav-link{
+    color: white !important; 
+}
+
 
 @media screen and (max-width: 770px){
 .pg2_img{
     width: 100%;
 }
 }
-    
+ 
